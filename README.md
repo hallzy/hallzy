@@ -1,4 +1,4 @@
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?business=QMDXUKQXRT75N&currency_code=CAD)
+[![paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?business=QMDXUKQXRT75N&currency_code=CAD)
 
 [![hallzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hallzy&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true&include_all_contributions=true)](https://github.com/anuraghazra/github-readme-stats)
 
